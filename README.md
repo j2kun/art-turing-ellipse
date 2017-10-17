@@ -1,3 +1,8 @@
+## Table of Contents
+ - [Individual Panels](#individual-panels)
+ - [Print your own](#print-your-own)
+ - [Credit & Tools](#credit)
+
 ![Turing Approximately](turing_approximately.jpg)
 
 ```
@@ -33,7 +38,7 @@ onto the sides of the frame.
 The jpeg/300ppi instructions were specific to my local giclée printer, so if 
 yours provides different instructions you should follow those.
 
-## Credit
+## Credit & Tools
 
 The original photograph is a black and white photograph of Alan Turing,
 colorized by Mads Madsen (reddit user
